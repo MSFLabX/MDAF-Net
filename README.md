@@ -6,6 +6,7 @@
 <div align="center">
     <img src="MDAF-Net.png" alt="framework" width="800"/>
 </div>
+
 ## 📌 Overview
 
 MDAF-Net is a novel multimodal fusion framework designed for joint classification of hyperspectral imaging (HSI) and LiDAR data.
