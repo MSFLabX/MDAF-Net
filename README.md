@@ -65,6 +65,13 @@ To get started, we recommend setting up a conda environment and installing depen
 ### Citation
 If this code is useful for your research, please cite this paper.
 
+    @ARTICLE{song2026multi,
+    	title = {Multi-domain adaptive fusion network for multi-source remote sensing data classification},
+    	author = {Song, Qiya and Peng, Jianle and Song, Weiwei and Sun, Bin and Dian, Renwei and Li, Shutao},
+    	journal = {SCIENCE CHINA Information Sciences},
+    	year = {2026},
+    }
+
 
 ## 🌸 Acknowledgment
 
